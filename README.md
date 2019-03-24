@@ -1,2 +1,2 @@
 # self-learning
-自学笔记记录
+java基础知识的复习和总结。
