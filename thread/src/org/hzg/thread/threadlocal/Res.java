@@ -1,4 +1,4 @@
-package thread.src.org.hzg.thread.threadlocal;
+package org.hzg.thread.threadlocal;
 
 /**
  * Created by hzgal on 2019-6-12.
